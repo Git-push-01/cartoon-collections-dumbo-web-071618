@@ -19,8 +19,9 @@ def long_planeteer_calls(calls)
     true
   else
     false
-    
-    
+  end
+
+
   # code an argument here
   # Your code here
 end
